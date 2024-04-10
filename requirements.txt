@@ -1,0 +1,6 @@
+disnake
+aiosqlite
+loguru
+numba
+aiohttp
+bs4
